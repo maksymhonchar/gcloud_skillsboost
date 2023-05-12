@@ -1,0 +1,14 @@
+# About
+- There is a course on Google Cloud Skills Boost platform about GenAI
+- Link to course:
+    - https://www.cloudskillsboost.google/course_templates/536
+- Title:
+    - Introduction to Generative AI
+- Description: 
+    - This is an introductory level microlearning course aimed at explaining what Generative AI is, how it is used, and how it differs from traditional machine learning methods.
+    - It also covers Google Tools to help you develop your own Gen AI apps.
+    - This course is estimated to take approximately 45 minutes to complete.
+- Chapters:
+    - Introduction to Generative AI
+    - Introduction to Generative AI: Reading
+    - Introduction to Generative AI: Quiz
