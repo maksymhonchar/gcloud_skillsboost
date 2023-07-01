@@ -1,0 +1,14 @@
+# About
+- There is a 1-day course on Google Cloud Skills Boost platform about LLMs
+- Link to course:
+    - https://www.cloudskillsboost.google/course_templates/539
+- Title:
+    - Introduction to Large Language Models
+- Description:
+    - This is an introductory level microlearning course that explores what large language models (LLM) are, the use cases where they can be utilized, and how you can use prompt tuning to enhance LLM performance.
+    - It also covers Google tools to help you develop your own Gen AI apps.
+    - This course is estimated to take approximately 45 minutes to complete.
+- Chapters:
+    - Introduction to Large Language Models
+    - Introduction to Large Language Models: Reading
+    - Introduction to Large Language Models: Quiz
