@@ -1,0 +1,11 @@
+# About
+- Link to course:
+    - https://www.cloudskillsboost.google/course_templates/554
+- Title:
+    - Introduction to Responsible AI
+- Description: 
+    - This is an introductory-level microlearning course aimed at explaining what responsible AI is, why it's important, and how Google implements responsible AI in their products.
+    - It also introduces Google's 7 AI principles.
+- Chapters:
+    - Introduction to Responsible AI
+    - Introduction to Responsible AI: Quiz
