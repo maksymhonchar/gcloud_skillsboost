@@ -1,0 +1,5 @@
+- Options for encryption:
+    - Encryption by default (only on Google Cloud)
+    - Customer-managed encryption keys (CMEK)
+    - Customer-supplied encryption keys (CSEK)
+    - Client-side encryption: Encrypt your data locally before you store it in the cloud

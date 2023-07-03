@@ -1,0 +1,10 @@
+- IaaS - Infrastructure as a Service
+    - Raw compute, Storage, Network capabilities
+    - IaaS offerings are organized into resources that are similar to physical data centers
+    - "Pay for what they allocate"
+- PaaS - Platform as a Service
+    - Binds code to libraries that provide access to infrastructure applications need
+    - "Pay for what they use"
+- SaaS - Software as a Service
+    - These apps are not installed on your computer; they run in the cloud as a service instead
+    - Gmail, Docs, and Drive :)

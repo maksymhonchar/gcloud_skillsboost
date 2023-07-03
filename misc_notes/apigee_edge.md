@@ -1,0 +1,4 @@
+- Apigee Edge:
+    - Specific focus on business problems, like rate limiting, quotas, and analytics
+    - Many Apigee Edge users provide a software service to other companies
+    - Backed services for Apigee Edge don't need to be in Google Cloud :)
