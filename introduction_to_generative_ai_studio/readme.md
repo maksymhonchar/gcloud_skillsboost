@@ -1,0 +1,12 @@
+# About
+- Link to course:
+    - https://www.cloudskillsboost.google/course_templates/552
+- Title:
+    - Introduction to Generative AI Studio
+- Description:
+    - This course introduces Generative AI Studio, a product on Vertex AI, that helps you prototype and customize generative AI models so you can use their capabilities in your applications.
+    - In this course, you learn what Generative AI Studio is, its features and options, and how to use it by walking through demos of the product. In the end, you will have a quiz to test your knowledge.
+- Chapters:
+    - Introduction to Generative AI Studio
+    - Course Review: Reflection Cards
+    - QUIZ
