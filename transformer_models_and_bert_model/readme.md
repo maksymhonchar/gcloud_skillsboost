@@ -1,0 +1,13 @@
+# About
+- Link to course:
+    - https://www.cloudskillsboost.google/course_templates/538
+- Title:
+    - Transformer Models and BERT Model
+- Description:
+    - This course introduces you to the Transformer architecture and the Bidirectional Encoder Representations from Transformers (BERT) model.
+    - You learn about the main components of the Transformer architecture, such as the self-attention mechanism, and how it is used to build the BERT model.
+    - You also learn about the different tasks that BERT can be used for, such as text classification, question answering, and natural language inference.
+- Chapters:
+    - Transformer Models and BERT Model
+    - Transformer Models and BERT Model: Lab Walkthrough
+    - Transformer Models and BERT Model: Quiz
