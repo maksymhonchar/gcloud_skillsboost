@@ -1,0 +1,11 @@
+# About
+- Link to course:
+    - https://www.cloudskillsboost.google/course_templates/537
+- Title:
+    - Attention Mechanism
+- Description: 
+    - This course will introduce you to the attention mechanism, a powerful technique that allows neural networks to focus on specific parts of an input sequence.
+    - You will learn how attention works, and how it can be used to improve the performance of a variety of machine learning tasks, including machine translation, text summarization, and question answering.
+- Chapters:
+    - Attention Mechanism
+    - Attention Mechanism: Quiz
